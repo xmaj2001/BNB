@@ -11,3 +11,6 @@ Criada com a linguagem C#  e MaterialDesign
 Ele também pode Ler em voz alta para vc.
 ## Correção  autográfica
 ![Corrigir](bnberro.png)
+
+## animação
+![animação](BNB.gif)
