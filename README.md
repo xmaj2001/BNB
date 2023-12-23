@@ -12,5 +12,5 @@ Ele também pode Ler em voz alta para vc.
 ## Correção  autográfica
 ![Corrigir](bnberro.png)
 
-## animação
+## Animação
 ![animação](BNB.gif)
