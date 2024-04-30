@@ -9,7 +9,7 @@ Criada com a linguagem C#  e MaterialDesign
 
 ## Leitura de Texto
 Ele também pode Ler em voz alta para vc.
-## Correção  autográfica
+## Correção  ortográfica
 ![Corrigir](bnberro.png)
 
 ## Animação
